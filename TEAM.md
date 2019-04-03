@@ -1,14 +1,1 @@
-## Founder
-
-Name: [name]
-Role: [role]
-
-## Team Member 1
-
-Name: [name]
-Role: [role]
-
-## Team Member 2
-
-Name: [name]
-Role: [role]
+The DooTron team is made up of a group of young and experienced blockchain professionals in developing smart contracts and fintech applications. Most of our team members love gaming - mobile, console and online, whom have had online entertainment related industry development experiences.
