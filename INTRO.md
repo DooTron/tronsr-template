@@ -2,5 +2,7 @@ DooTron is a community-focused gaming platform on TRON where all participants ca
 
 
 Facebook: https://facebook.com/dootron888
+
 Twitter: https://twitter.com/dootron888
+
 Telegram: https://t.me/dootron
